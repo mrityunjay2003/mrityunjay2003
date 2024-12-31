@@ -13,7 +13,7 @@
   <img src="https://skillicons.dev/icons?i=git,docker,cpp,nodejs,golang,linux,mongodb,postgresql,mysql,python,react,tailwindcss,typescript,next" />
 </p>
 
-<div align="left" style="display: flex; justify-content: center; align-items: center; gap: 50px;">
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 50px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mrityunjay2003&show_icons=true&locale=en&layout=compact&theme=radical" alt="mrityunjay2003" style="height: 200px;" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrityunjay2003&theme=radical" alt="mrityunjay2003" style="height: 200px;" />
 </div>
